@@ -1,2 +1,2 @@
 # Portfolio
-file:///C:/Users/Rifat%20Reza/OneDrive/Desktop/Portfolio/portfolio.html
+https://rifat701.github.io/Portfolio/
